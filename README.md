@@ -8,3 +8,11 @@ Student data is stored in a local database or data file, and users can search fo
 ## الوصف :
 هذا المشروع هو عبارة عن برنامج مصغر لإدارة بيانات الطلاب يستخدم لغة البرمجة C# لتطويره يهدف المشروع إلى توفير واجهة مستخدم بسيطة وسهلة الاستخدام لإدخال وعرض وتحديث بيانات الطلاب. يحتوي البرنامج أيضًا على محرر صور بسيط يمكن من خلاله تعديل صورة الطالب.
 من خلال هذا البرنامج، يمكن للمستخدم إدخال بيانات الطلاب يتيح البرنامج أيضًا إمكانية تحميل صورة لكل طالب وتعديلها باستخدام المحرر البسيط المتاح. يمكن تغيير حجم الصورة، تدويرها، قصها أو تطبيق تأثيرات بسيطة عليها.
+
+## The main form (الواجهة الرئيسية):
+![kljsasd](https://github.com/HavedAlhadi/Student-Management-Project-Using-C-Sharp/assets/130609547/1234f748-6060-485c-941d-54f44d1e8b29)
+
+
+
+## Photo editor interface (واجهة محرر الصور):
+![edite_image](https://github.com/HavedAlhadi/Student-Management-Project-Using-C-Sharp/assets/130609547/0897d135-8b09-4421-99e0-9fbcc5e2eea2)
