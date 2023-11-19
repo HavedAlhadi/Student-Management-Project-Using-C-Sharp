@@ -1,0 +1,18 @@
+c:\users\19293\documents\visual studio 2015\Projects\Math\Math\bin\Debug\Math.exe.config
+c:\users\19293\documents\visual studio 2015\Projects\Math\Math\bin\Debug\Math.exe
+c:\users\19293\documents\visual studio 2015\Projects\Math\Math\bin\Debug\Math.pdb
+c:\users\19293\documents\visual studio 2015\Projects\Math\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache
+c:\users\19293\documents\visual studio 2015\Projects\Math\Math\obj\Debug\Math.Form1.resources
+c:\users\19293\documents\visual studio 2015\Projects\Math\Math\obj\Debug\Math.Properties.Resources.resources
+c:\users\19293\documents\visual studio 2015\Projects\Math\Math\obj\Debug\Math.csproj.GenerateResource.Cache
+c:\users\19293\documents\visual studio 2015\Projects\Math\Math\obj\Debug\Math.exe
+c:\users\19293\documents\visual studio 2015\Projects\Math\Math\obj\Debug\Math.pdb
+D:\j\Exercises\Exercises\Math\Math\bin\Debug\Math.exe.config
+D:\j\Exercises\Exercises\Math\Math\bin\Debug\Math.exe
+D:\j\Exercises\Exercises\Math\Math\bin\Debug\Math.pdb
+D:\j\Exercises\Exercises\Math\Math\obj\Debug\Math.csprojAssemblyReference.cache
+D:\j\Exercises\Exercises\Math\Math\obj\Debug\Math.Form1.resources
+D:\j\Exercises\Exercises\Math\Math\obj\Debug\Math.Properties.Resources.resources
+D:\j\Exercises\Exercises\Math\Math\obj\Debug\Math.csproj.GenerateResource.cache
+D:\j\Exercises\Exercises\Math\Math\obj\Debug\Math.exe
+D:\j\Exercises\Exercises\Math\Math\obj\Debug\Math.pdb

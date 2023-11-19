@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C87C68B2-7D06-400A-B18F-2344A6C153F0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Homwork</RootNamespace>
+    <AssemblyName>Homwork</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EditImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditImage.Designer.cs">
+      <DependentUpon>EditImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEditorSted.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEditorSted.Designer.cs">
+      <DependentUpon>FormEditorSted.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MianPag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MianPag.Designer.cs">
+      <DependentUpon>MianPag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pag4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pag4.Designer.cs">
+      <DependentUpon>pag4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mytag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mytag.Designer.cs">
+      <DependentUpon>Mytag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="time.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="time.Designer.cs">
+      <DependentUpon>time.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exam2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exam2.Designer.cs">
+      <DependentUpon>exam2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentPag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentPag.Designer.cs">
+      <DependentUpon>StudentPag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pag2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pag2.Designer.cs">
+      <DependentUpon>pag2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pag3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pag3.Designer.cs">
+      <DependentUpon>pag3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="EditImage.resx">
+      <DependentUpon>EditImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEditorSted.resx">
+      <DependentUpon>FormEditorSted.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MianPag.resx">
+      <DependentUpon>MianPag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pag4.resx">
+      <DependentUpon>pag4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mytag.resx">
+      <DependentUpon>Mytag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="time.resx">
+      <DependentUpon>time.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exam2.resx">
+      <DependentUpon>exam2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentPag.resx">
+      <DependentUpon>StudentPag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pag2.resx">
+      <DependentUpon>pag2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pag3.resx">
+      <DependentUpon>pag3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0cdf0313ef2ef825f44c622a21349d91.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20210304_234307.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20210304_2343071.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0cdf0313ef2ef825f44c622a21349d911.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20210304_234406.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20210304_233034.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20210304_233901.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\studimag.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

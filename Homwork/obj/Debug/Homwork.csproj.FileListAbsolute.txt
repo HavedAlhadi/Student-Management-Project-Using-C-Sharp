@@ -1,0 +1,27 @@
+C:\Users\USERWD\source\repos\Homwork\Homwork\bin\Debug\Homwork.exe.config
+C:\Users\USERWD\source\repos\Homwork\Homwork\bin\Debug\Homwork.exe
+C:\Users\USERWD\source\repos\Homwork\Homwork\bin\Debug\Homwork.pdb
+C:\Users\USERWD\source\repos\Homwork\Homwork\obj\Debug\Homwork.csprojAssemblyReference.cache
+C:\Users\USERWD\source\repos\Homwork\Homwork\obj\Debug\Homwork.FormP.resources
+C:\Users\USERWD\source\repos\Homwork\Homwork\obj\Debug\Homwork.Homwork2.resources
+C:\Users\USERWD\source\repos\Homwork\Homwork\obj\Debug\Homwork.Properties.Resources.resources
+C:\Users\USERWD\source\repos\Homwork\Homwork\obj\Debug\Homwork.csproj.GenerateResource.cache
+C:\Users\USERWD\source\repos\Homwork\Homwork\obj\Debug\Homwork.exe
+C:\Users\USERWD\source\repos\Homwork\Homwork\obj\Debug\Homwork.pdb
+C:\Users\USERWD\source\repos\Homwork\Homwork\obj\Debug\Homwork.pag3.resources
+C:\Users\USERWD\source\repos\Homwork\Homwork\obj\Debug\Homwork.pag4.resources
+C:\Users\USERWD\source\repos\Homwork\Homwork\obj\Debug\Homwork.Form1.resources
+D:\مجلد جديد\Homwork\Homwork\bin\Debug\Homwork.exe.config
+D:\مجلد جديد\Homwork\Homwork\bin\Debug\Homwork.exe
+D:\مجلد جديد\Homwork\Homwork\bin\Debug\Homwork.pdb
+D:\مجلد جديد\Homwork\Homwork\obj\Debug\Homwork.csprojAssemblyReference.cache
+D:\مجلد جديد\Homwork\Homwork\obj\Debug\Homwork.Form1.resources
+D:\مجلد جديد\Homwork\Homwork\obj\Debug\Homwork.FormP.resources
+D:\مجلد جديد\Homwork\Homwork\obj\Debug\Homwork.Homwork2.resources
+D:\مجلد جديد\Homwork\Homwork\obj\Debug\Homwork.pag3.resources
+D:\مجلد جديد\Homwork\Homwork\obj\Debug\Homwork.pag4.resources
+D:\مجلد جديد\Homwork\Homwork\obj\Debug\Homwork.Properties.Resources.resources
+D:\مجلد جديد\Homwork\Homwork\obj\Debug\Homwork.csproj.GenerateResource.cache
+D:\مجلد جديد\Homwork\Homwork\obj\Debug\Homwork.exe
+D:\مجلد جديد\Homwork\Homwork\obj\Debug\Homwork.pdb
+D:\مجلد جديد\Homwork\Homwork\obj\Debug\Homwork.Myprogect.resources
